@@ -4,13 +4,8 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 import argparse
-import ast
-import io
-import json
 import os
-import sys
 import tarfile
-from json import JSONDecodeError
 
 import requests as requests
 
